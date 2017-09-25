@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgressView">
+        <attr name="value_text" format="string" />
+        <attr name="label_text" format="string" />
+        <attr name="value_text_color" format="color" />
+        <attr name="label_text_color" format="color" />
+        <attr name="max_value" format="integer" />
+        <attr name="current_value" format="integer" />
+        <attr name="value_text_size" format="dimension" />
+        <attr name="label_text_size" format="dimension" />
+        <attr name="start_angle" format="float" />
+        <attr name="animation_duration" format="integer" />
+    </declare-styleable>
+</resources>
